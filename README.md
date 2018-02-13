@@ -6,7 +6,7 @@ Once the application is running , we can access by the URL localhost:8085/swagge
 
 Here is the sample Model Schema, which you can test in postman extension:
 
-This is the Json payload
+This is the Json payload:
 
 {
   "address": "string",
